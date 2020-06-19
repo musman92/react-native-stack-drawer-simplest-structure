@@ -6,4 +6,4 @@ in this repo we did implementation of Stack Navigation and Drawe Navigation.
 
 below is the preview how it works 
 
-![preview](https://github.com/musman92/react-native-stack-drawer-simplest-structure/blob/master/Hnet-image.gif?raw=true)
+![preview](https://github.com/musman92/react-native-stack-drawer-simplest-structure/blob/master/preview.gif?raw=true)
